@@ -1,6 +1,6 @@
 # Table of contents
 
-# 제1장 개요
+## 제1장 개요 [](general-Information/README.md)
   * [1.1 일반사항](general-Information/README.md)
     * [1.1.1 지침의 개요](general-Information/overview-of-guidelines.md)
     * [1.1.2 지침의 위계](general-Information/hierarchy-of-guidelines.md)
@@ -16,7 +16,7 @@
     * [1.3.3 수행 주체의 역할](main-contents-and-roles-of-performing-subjects/role-of-performing-subject.md)
   * [1.4 용어](term/README.md)
 
-# 제2장 BIM 데이터 및 성과품 작성기준
+## 제2장 BIM 데이터 및 성과품 작성기준
   * [2.1 BIM 적용절차 개요](general-Information/README.md)
     * [2.1.1 BIM 발주단계](overview-of-bim-application-procedure/bim-order-stage.md)
     * [2.1.2 BIM 모델작성 단계](overview-of-bim-application-procedure/bim-model-creation-step.md)
