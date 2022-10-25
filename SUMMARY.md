@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1.1 일반사항](general-Information/README.md)
+* [개요](general-Information/README.md)
 
 ## 제1장 개요
 
@@ -21,7 +21,7 @@
 
 ## 제2장 BIM 데이터 및 성과품 작성기준
 
-* [2.1 BIM 적용절차 개요](general-Information/README.md)
+* [2.1 BIM 적용절차 개요](overview-of-bim-application-procedure/README.md)
   * [2.1.1 BIM 발주단계](overview-of-bim-application-procedure/bim-order-stage.md)
   * [2.1.2 BIM 모델작성 단계](overview-of-bim-application-procedure/bim-model-creation-step.md)
   * [2.1.3 BIM 성과품 작성단계](overview-of-bim-application-procedure/bim-product-preparation-stage.md)
